@@ -1,7 +1,6 @@
 {
   "name": "react-homework",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,5 +27,6 @@
     "react-hot-loader": "^3.0.0-beta.7",
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.5.0"
-  }
+  },
+  "description": ""
 }
